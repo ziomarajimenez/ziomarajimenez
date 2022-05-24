@@ -1,7 +1,7 @@
 ## <div align="center"> Hello, I'm Ziomara! 👋 </div>
 
-- 👨🏻‍💻 I’m a front-end developer and biochemistry engineer
-- 👯 I love how technology allows us to colaborate and create multiple solutions to the same problem and brings people together with different backgrounds and interests. I’m really interested in working in projects with impact.
+- 👨🏻‍💻 I’m a front-end developer
+- 👯 I love how technology allows us to colaborate and create multiple solutions to the same problem and how it brings people together with different backgrounds and interests. 
 - ⚡ I’m currently developing projects with React
 - 🐶 Fun facts: I play basketball and I love dogs 
 
